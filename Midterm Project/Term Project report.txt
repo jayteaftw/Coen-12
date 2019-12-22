@@ -1,0 +1,25 @@
+JT Vinolus
+Professor Yuhong
+Coen 12
+7 June 2019
+Midterm Report
+        
+Application 1: Sorted Array by age.
+-Big O
+	Creation: O(n)
+	Destroy: O(1)
+	Search: O(log(n))
+	Insertion: O(n)
+	Deletion: O(n)
+	maxAgeGap: O(1)
+Even though it has large Big O complexity, because application 1 focused on the maxAgeGap function, sorted array is one of the options that provide a Big O(1). 
+
+
+Application 2: Direct Hashing by ID. 
+-Big O
+        Creation: O(n)
+	Destroy: O(1)
+	Search: O(1)
+	Insertion: O(1)
+	Deletion: O(1)
+Direct hashing is the best option for application 2 because it provides the best Big O for all functions.
